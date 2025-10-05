@@ -2,5 +2,7 @@ These are my projects from the Android development class that I took in Spring o
 
 Here is an example of my final project:
 <video width="640" autoplay muted loop playsinline>
-  <source src="https://github.com/user-attachments/assets/d511d382-f658-4c12-b691-2ed30fa8cddc" type="video/webm">
+  <source src="./PixlPickr/pixlpickr.webm" type="video/webm">
+  <source src="./PixlPickr/pixlpickr.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
